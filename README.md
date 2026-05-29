@@ -42,7 +42,7 @@ requests
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/spotify-oauth-python.git
+git clone https://github.com/guptaprashant4/spotify-oauth-python.git
 cd spotify-oauth-python
 pip install -r requirements.txt
 ```
